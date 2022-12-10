@@ -1,2 +1,2 @@
 # cv
-this is my personal cv and my attempt tp create my first website using html.
+This is my personal cv and my attempt to create my first website using html.
